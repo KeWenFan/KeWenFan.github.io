@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://KeWenFan.github.io</id>
+    <title>死后方生</title>
+    <updated>2023-09-21T14:47:21.767Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://KeWenFan.github.io"/>
+    <link rel="self" href="https://KeWenFan.github.io/atom.xml"/>
+    <logo>https://KeWenFan.github.io/images/avatar.png</logo>
+    <icon>https://KeWenFan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 死后方生</rights>
+</feed>
